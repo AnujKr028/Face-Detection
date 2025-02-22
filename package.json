@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@tensorflow-models/mobilenet": "^2.1.1",
-    "@tensorflow/tfjs": "^4.22.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@tensorflow/tfjs-backend-webgl": "^4.22.0",
     "@tensorflow/tfjs-core": "^4.22.0",
     "cra-template": "1.2.0",

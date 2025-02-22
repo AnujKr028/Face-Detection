@@ -1,0 +1,50 @@
+{
+  "happy": [
+    "The Alchemist - Paulo Coelho",
+    "Tuesdays with Morrie - Mitch Albom",
+    "The Happiness Project - Gretchen Rubin",
+    "Eleanor Oliphant Is Completely Fine - Gail Honeyman",
+    "Eat, Pray, Love - Elizabeth Gilbert",
+    "Becoming - Michelle Obama",
+    "The Little Prince - Antoine de Saint-Exupéry",
+    "You Are a Badass - Jen Sincero",
+    "The Power of Now - Eckhart Tolle",
+    "Big Magic - Elizabeth Gilbert"
+  ],
+  "sad": [
+    "The Fault in Our Stars - John Green",
+    "A Man Called Ove - Fredrik Backman",
+    "The Book Thief - Markus Zusak",
+    "Me Before You - Jojo Moyes",
+    "The Kite Runner - Khaled Hosseini",
+    "Where the Crawdads Sing - Delia Owens",
+    "Looking for Alaska - John Green",
+    "If I Stay - Gayle Forman",
+    "The Perks of Being a Wallflower - Stephen Chbosky",
+    "All the Bright Places - Jennifer Niven"
+  ],
+  "angry": [
+    "1984 - George Orwell",
+    "Fahrenheit 451 - Ray Bradbury",
+    "Brave New World - Aldous Huxley",
+    "Animal Farm - George Orwell",
+    "Fight Club - Chuck Palahniuk",
+    "The Handmaid's Tale - Margaret Atwood",
+    "The Catcher in the Rye - J.D. Salinger",
+    "American Psycho - Bret Easton Ellis",
+    "We Need to Talk About Kevin - Lionel Shriver",
+    "Crime and Punishment - Fyodor Dostoevsky"
+  ],
+  "neutral": [
+    "The Secret Garden - Frances Hodgson Burnett",
+    "Pride and Prejudice - Jane Austen",
+    "Anne of Green Gables - L.M. Montgomery",
+    "Little Women - Louisa May Alcott",
+    "The Wind in the Willows - Kenneth Grahame",
+    "Winnie-the-Pooh - A.A. Milne",
+    "The House in the Cerulean Sea - TJ Klune",
+    "A Walk in the Woods - Bill Bryson",
+    "The Tao of Pooh - Benjamin Hoff",
+    "The Art of Happiness - Dalai Lama"
+  ]
+}

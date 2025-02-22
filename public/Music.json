@@ -1,0 +1,59 @@
+{
+    "happy": [
+      "Happy - Pharrell Williams",
+      "Can't Stop the Feeling - Justin Timberlake",
+      "Uptown Funk - Mark Ronson ft. Bruno Mars",
+      "Shake It Off - Taylor Swift",
+      "Walking on Sunshine - Katrina & The Waves",
+      "Don't Stop Me Now - Queen",
+      "I Wanna Dance with Somebody - Whitney Houston",
+      "Good Vibrations - The Beach Boys",
+      "Best Day of My Life - American Authors",
+      "On Top of the World - Imagine Dragons"
+    ],
+    "sad": [
+      "Someone Like You - Adele",
+      "Fix You - Coldplay",
+      "Let Her Go - Passenger",
+      "Say Something - A Great Big World ft. Christina Aguilera",
+      "Hurt - Johnny Cash",
+      "The Scientist - Coldplay",
+      "All I Want - Kodaline",
+      "Skinny Love - Bon Iver",
+      "I Will Always Love You - Whitney Houston",
+      "Everybody Hurts - R.E.M."
+    ],
+    "angry": [
+      "Break Stuff - Limp Bizkit",
+      "Killing in the Name - Rage Against the Machine",
+      "Bodies - Drowning Pool",
+      "Down with the Sickness - Disturbed",
+      "Enter Sandman - Metallica",
+      "Stronger - Kanye West",
+      "Rap God - Eminem",
+      "Duality - Slipknot",
+      "Bring Me to Life - Evanescence",
+      "Chop Suey! - System of a Down"
+    ],
+    "neutral": [
+      "Weightless - Marconi Union",
+      "Sunset Lover - Petit Biscuit",
+      "Beyond - Leon Bridges",
+      "Better Together - Jack Johnson",
+      "Banana Pancakes - Jack Johnson",
+      "Holocene - Bon Iver",
+      "Stay with Me - Sam Smith",
+      "The Night We Met - Lord Huron",
+      "Landslide - Fleetwood Mac",
+      "Imagine - John Lennon"
+    ]
+  }
+  
+
+
+
+
+
+
+
+

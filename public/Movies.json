@@ -1,0 +1,51 @@
+{
+    "happy": [
+      "Forrest Gump",
+      "The Pursuit of Happyness",
+      "Zootopia",
+      "Inside Out",
+      "The Secret Life of Walter Mitty",
+      "Yes Man",
+      "The Intern",
+      "Amélie",
+      "Little Miss Sunshine",
+      "Paddington 2"
+    ],
+    "sad": [
+      "A Star is Born",
+      "The Green Mile",
+      "The Fault in Our Stars",
+      "Schindler's List",
+      "Titanic",
+      "Blue Valentine",
+      "Manchester by the Sea",
+      "Life is Beautiful",
+      "The Boy in the Striped Pajamas",
+      "Marley & Me"
+    ],
+    "angry": [
+      "Joker",
+      "Fight Club",
+      "John Wick",
+      "Mad Max: Fury Road",
+      "The Dark Knight",
+      "Gladiator",
+      "The Revenant",
+      "Training Day",
+      "American History X",
+      "Kill Bill"
+    ],
+    "neutral": [
+      "The Grand Budapest Hotel",
+      "Call Me by Your Name",
+      "The Hundred-Foot Journey",
+      "Julie & Julia",
+      "Lost in Translation",
+      "Before Sunrise",
+      "A Beautiful Day in the Neighborhood",
+      "Eat Pray Love",
+      "About Time",
+      "Good Will Hunting"
+    ]
+  }
+  
